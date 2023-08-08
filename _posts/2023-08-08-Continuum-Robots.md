@@ -23,15 +23,12 @@ The evolution in medical intervention from traditional open surgery to minimally
 With lots of different progress today, there are still huge areas in medical intervention needing technological improvements. The majority of these demands have been in the area of developing smart devices with better properties and characteristics for targeted applications. These include achieving high overall robot miniaturization for possible handheld capability and single-port deployability. Among other features are high dexterity, high precision, high maneuverability, and safer robot-to-human interaction. To that effect, all these have resulted in the paradigm shift in medical robotics research, from the traditional rigid robot to the continuum (continuously deformable) and soft robots. This emerging field of research has drawn enormous focus today due to its overwhelming potential and benefits.
 
 ![paradigm_shift1]({{ '/assets/img/paradigm_shift.png' | relative_url }})
-{: .box-note}
-**Figure 3** This is a notification box.
+
+**Figure 3** This is a notification box.{: .box-note}
 
 One of the key challenges in MIS is navigating to the surgical site through complex 3D curves while avoiding sensitive organs or bony structures and most preferably passing through a natural body orifice e.g. nose, mouth, or ear. In fact, on reaching the surgical site, the next issue is the capability to control its distal tip, while the proximal end is held relatively immobile during tool manipulation. These have motivated the constant rise in the development of smart compact devices with the possibility of teleoperation, as seen in the high research throughput on continuum robots today. Comparing the three categories of MIS intervention instruments (see Figure~\ref{class_of_MIS}), the continuum robots which includes the concentric tube robots (CTRs), tendon-driven, and parallel continuum robot (PCR) possess the best properties of all the three types~\cite{5371822}. The reasons for the paradigm shift in the field of robotics from conventional robots that are composed of rigid links connected by discrete joints to continuum robots as shown in Figure~\ref{shift_in_robots} include:
-
-
     1) Infinite degree of freedom thanks to its continuously deformable backbone meaning high dexterity and maneuverability, 
     2) Provides much more safe human-to-robot interaction due to its inherent compliant property, 
     3) With all the motors/actuators located externally at the proximal end, this makes the robot suitable for MIS.  
-
 
 These have given rise to the creation and upsurge of new research communities/clusters around the globe focusing on continuum robots. Today, there are vastly different design prototypes and publications on continuum robots as the majority of them are proposed for medical applications~\cite{1570614,yang2018grand}. Though, Chapter-\ref{chap2} discussed extensively the state of the art of the two continuum robots of interest. Notably, the benefits and advantages of MIS today are undeniable and these are the driving force for the several proposed use of continuum robots due to their scalability. Even with the current state-of-the-art of continuum robots, there are still demands for further invasiveness, which are aimed at accessing hard-to-reach surgical regions in clinical interventions. These have resulted in the need for miniaturization of clinical instruments/devices, which are detailed further below.
