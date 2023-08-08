@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Sojo you are the best
 subtitle: In God  I trust
 cover-img: /assets/img/path.jpg
