@@ -23,7 +23,11 @@ With lots of different progress today, there are still huge areas in medical int
 One of the key challenges in MIS is navigating to the surgical site through complex 3D curves while avoiding sensitive organs or bony structures and most preferably passing through a natural body orifice e.g. nose, mouth, or ear. In fact, on reaching the surgical site, the next issue is the capability to control its distal tip, while the proximal end is held relatively immobile during tool manipulation. These have motivated the constant rise in the development of smart compact devices with the possibility of teleoperation, as seen in the high research throughput on continuum robots today. Comparing the three categories of MIS intervention instruments (see Figure~\ref{class_of_MIS}), the continuum robots which includes the concentric tube robots (CTRs), tendon-driven, and parallel continuum robot (PCR) possess the best properties of all the three types~\cite{5371822}. The reasons for the paradigm shift in the field of robotics from conventional robots that are composed of rigid links connected by discrete joints to continuum robots as shown in Figure~\ref{shift_in_robots} include:
 
  **1)** Infinite degree of freedom thanks to its continuously deformable backbone meaning high dexterity and maneuverability,
+ {: .box-warning}
+ 
  **2)** Provides much more safe human-to-robot interaction due to its inherent compliant property,
+ {: .box-warning}
+ 
  **3)** With all the motors/actuators located externally at the proximal end, this makes the robot suitable for MIS.
 {: .box-warning} 
 
