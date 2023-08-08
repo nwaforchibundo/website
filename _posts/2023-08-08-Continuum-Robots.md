@@ -1,7 +1,7 @@
 ---
-layout: minimal
-title: Sojo you are the best
-subtitle: In God  I trust
+layout: post
+title: Continuum robots
+subtitle: Essence of these robots
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
