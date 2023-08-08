@@ -27,6 +27,17 @@ One of the key challenges in MIS is navigating to the surgical site through comp
 
 These have given rise to the creation and upsurge of new research communities/clusters around the globe focusing on continuum robots. Today, there are vastly different design prototypes and publications on continuum robots as the majority of them are proposed for medical applications~\cite{1570614,yang2018grand}. Though, Chapter-\ref{chap2} discussed extensively the state of the art of the two continuum robots of interest. Notably, the benefits and advantages of MIS today are undeniable and these are the driving force for the several proposed use of continuum robots due to their scalability. Even with the current state-of-the-art of continuum robots, there are still demands for further invasiveness, which are aimed at accessing hard-to-reach surgical regions in clinical interventions. These have resulted in the need for miniaturization of clinical instruments/devices, which are detailed further below.
 
-box.{: .box-note}
-**Figure 3** This is a notification 
-man is god
+### Notification
+
+{: .box-note}
+**Note:** This is a notification box.
+
+### Warning
+
+{: .box-warning}
+**Warning:** This is a warning box.
+
+### Error
+
+{: .box-error}
+**Error:** This is an error box.
