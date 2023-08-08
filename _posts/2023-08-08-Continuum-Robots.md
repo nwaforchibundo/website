@@ -9,11 +9,14 @@ tags: [books, test]
 ---
 
 ![MIS_1]({{ '/assets/img/MIS_.png' | relative_url }})
+
 {: .box-note}
 **Figure 1** This is a notification box.
+
 The evolution in medical intervention from traditional open surgery to minimally invasive surgery (MIS) has resulted in improved surgical outcomes such as less patient trauma, less blood loss, and shorter recovery time. These improvements are due to miniature incisions compared to the large openings in the patient's body. However, this technique has significant challenges such as difficulty in accessing surgical targets through complex 3D paths and the ability to control the rigid instruments due to limited maneuverability, dexterity, and degrees of freedom~\cite{6392862}. The goal of robotic-assisted surgery was to improve surgical procedures while maintaining the advantages of open surgery in MIS~\cite{Satava2003}. These include facilitating easy access to complex or hard-to-reach surgical targets with greater dexterity and DoFs, enhanced visualization of the anatomy; improved tool deployment precision/accuracy; reduced surgeon hand tremors and fatigue during tool manipulation or teleoperation~\cite{Satava2011}. All these have paved the way for developing different MIS intervention tools and instruments categorized into three by Dupont et al.~\cite{5371822} as presented in Figure~\ref{class_of_MIS}. 
 
 ![medical_devices1]({{ '/assets/img/medical_devices.png' | relative_url }})
+
 {: .box-note}
 **Figure 2** This is a notification box.
 
