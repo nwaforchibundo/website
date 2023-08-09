@@ -52,7 +52,6 @@ These have given rise to the creation and upsurge of new research communities/cl
 
 References
 ----------
-{% bibliography %}
 
 
 
