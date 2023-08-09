@@ -12,7 +12,7 @@ tags: [books, test]
 **Figure 1.** *`Paradigm shift from traditional open surgery to minimally invasive surgery.`*
 {: .text-justify}
 
-The evolution in medical intervention from traditional open surgery to minimally invasive surgery (MIS) has resulted in improved surgical outcomes such as less patient trauma, less blood loss, and shorter recovery time. These improvements are due to miniature incisions compared to the large openings in the patient's body. However, this technique has significant challenges such as difficulty in accessing surgical targets through complex 3D paths and the ability to control the rigid instruments due to limited maneuverability, dexterity, and degrees of freedom~\cite{6392862}. The goal of robotic-assisted surgery was to improve surgical procedures while maintaining the advantages of open surgery in MIS~\cite{Satava2003}. These include facilitating easy access to complex or hard-to-reach surgical targets with greater dexterity and DoFs, enhanced visualization of the anatomy; improved tool deployment precision/accuracy; reduced surgeon hand tremors and fatigue during tool manipulation or teleoperation~\cite{Satava2011}. All these have paved the way for developing different MIS intervention tools and instruments categorized into three by Dupont et al.~\cite{5371822} as presented in Figure~\ref{class_of_MIS}. 
+The evolution in medical intervention from traditional open surgery to minimally invasive surgery (MIS) has resulted in improved surgical outcomes such as less patient trauma, less blood loss, and shorter recovery time {% cite ruby %}. These improvements are due to miniature incisions compared to the large openings in the patient's body. However, this technique has significant challenges such as difficulty in accessing surgical targets through complex 3D paths and the ability to control the rigid instruments due to limited maneuverability, dexterity, and degrees of freedom~\cite{6392862}. The goal of robotic-assisted surgery was to improve surgical procedures while maintaining the advantages of open surgery in MIS~\cite{Satava2003}. These include facilitating easy access to complex or hard-to-reach surgical targets with greater dexterity and DoFs, enhanced visualization of the anatomy; improved tool deployment precision/accuracy; reduced surgeon hand tremors and fatigue during tool manipulation or teleoperation~\cite{Satava2011}. All these have paved the way for developing different MIS intervention tools and instruments categorized into three by Dupont et al.~\cite{5371822} as presented in Figure~\ref{class_of_MIS}. 
 {: .text-justify}
 
 ![medical_devices1]({{ '/assets/img/medical_devices.png' | relative_url }})
@@ -32,7 +32,7 @@ One of the key challenges in MIS is navigating to the surgical site through comp
 - **2.** Provides much more safe human-to-robot interaction due to its inherent compliant property,
 - **3.** With all the motors/actuators located externally at the proximal end, this makes the robot suitable for MIS. 
 
-These have given rise to the creation and upsurge of new research communities/clusters around the globe focusing on continuum robots. Today, there are vastly different design prototypes and publications on continuum robots as the majority of them are proposed for medical applications~\cite{1570614,yang2018grand}. Though, Chapter-\ref{chap2} discussed extensively the state of the art of the two continuum robots of interest. Notably, the benefits and advantages of MIS today are undeniable and these are the driving force for the several proposed use of continuum robots due to their scalability {% bibliography %}. Even with the current state-of-the-art of continuum robots, there are still demands for further invasiveness, which are aimed at accessing hard-to-reach surgical regions in clinical interventions. These have resulted in the need for miniaturization of clinical instruments/devices, which are detailed further below.
+These have given rise to the creation and upsurge of new research communities/clusters around the globe focusing on continuum robots. Today, there are vastly different design prototypes and publications on continuum robots as the majority of them are proposed for medical applications~\cite{1570614,yang2018grand}. Though, Chapter-\ref{chap2} discussed extensively the state of the art of the two continuum robots of interest. Notably, the benefits and advantages of MIS today are undeniable and these are the driving force for the several proposed use of continuum robots due to their scalability. Even with the current state-of-the-art of continuum robots, there are still demands for further invasiveness, which are aimed at accessing hard-to-reach surgical regions in clinical interventions. These have resulted in the need for miniaturization of clinical instruments/devices, which are detailed further below.
 {: .text-justify}
 
 ### Notification
@@ -49,3 +49,11 @@ These have given rise to the creation and upsurge of new research communities/cl
 
 {: .box-error}
 **Error:** This is an error box.
+
+References
+----------
+
+{% bibliography --cited %}
+
+
+
