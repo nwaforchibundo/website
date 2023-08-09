@@ -298,7 +298,9 @@ plugins:
   - jekyll/scholar
 
 scholar:
-  style: modern-language-association
+  style: current-opinion
+  #bibliography_list_tag: 'div'
+  #bibliography_item_tag: 'p'
   
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
