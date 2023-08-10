@@ -295,10 +295,6 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
   - jekyll-scholar
 
 scholar:
