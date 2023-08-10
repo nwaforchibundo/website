@@ -4,4 +4,13 @@ source "https://rubygems.org"
 
 gemspec
 
-gem 'jekyll-scholar', group: :jekyll_plugins
+group :jekyll_plugins do
+    gem 'github-pages'
+    gem 'rouge'
+    gem "jekyll", ">= 3.7.4"
+    gem 'jekyll-email-protect'
+    # gem 'jekyll-paginate'
+    gem 'jekyll-scholar'
+    gem 'unicode_utils'
+    gem 'webrick'
+end
