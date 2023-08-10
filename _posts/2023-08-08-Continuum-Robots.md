@@ -32,7 +32,7 @@ One of the key challenges in MIS is navigating to the surgical site through comp
 - **2.** Provides much more safe human-to-robot interaction due to its inherent compliant property,
 - **3.** With all the motors/actuators located externally at the proximal end, this makes the robot suitable for MIS. 
 
-These have given rise to the creation and upsurge of new research communities/clusters around the globe focusing on continuum robots. Today, there are vastly different design prototypes and publications on continuum robots as the majority of them are proposed for medical applications {1570614,yang2018grand}. Though, Chapter-\ref{chap2} discussed extensively the state of the art of the two continuum robots of interest. Notably, the benefits and advantages of MIS today are undeniable and these are the driving force for the several proposed use of continuum robots due to their scalability. Even with the current state-of-the-art of continuum robots, there are still demands for further invasiveness, which are aimed at accessing hard-to-reach surgical regions in clinical interventions. These have resulted in the need for miniaturization of clinical instruments/devices, which are detailed further below {% cite sojo23 %}.
+These have given rise to the creation and upsurge of new research communities/clusters around the globe focusing on continuum robots. Today, there are vastly different design prototypes and publications on continuum robots as the majority of them are proposed for medical applications {1570614,yang2018grand}. Though, Chapter-\ref{chap2} discussed extensively the state of the art of the two continuum robots of interest. Notably, the benefits and advantages of MIS today are undeniable and these are the driving force for the several proposed use of continuum robots due to their scalability. Even with the current state-of-the-art of continuum robots, there are still demands for further invasiveness, which are aimed at accessing hard-to-reach surgical regions in clinical interventions. These have resulted in the need for miniaturization of clinical instruments/devices, which are detailed further below.
 {: .text-justify}
 
 ### Notification
@@ -50,30 +50,5 @@ These have given rise to the creation and upsurge of new research communities/cl
 {: .box-error}
 **Error:** This is an error box.
 
-#### References
-{% bibliography --cited %}
 
-[apa-csl]: https://github.com/citation-style-language/styles/blob/master/apa.csl 
-[bibtex]: http://www.bibtex.org/
-[chruby]: https://github.com/postmodern/chruby
-[config]: https://github.com/gemmadanks/gemmadanks.github.io/blob/main/_config.yml
-[csl-styles]: https://github.com/citation-style-language/styles
-[gemfile]: https://github.com/gemmadanks/gemmadanks.github.io/blob/main/Gemfile
-[github-actions]: https://docs.github.com/en/actions
-[github-actions-github-pages]: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#publishing-with-a-custom-github-actions-workflow
-[github-pages]: https://pages.github.com/
-[github-pages-dependencies]: https://pages.github.com/versions
-[github-pages-gems]: https://rubygems.org/gems/github-pages/versions/227
-[github-workflow]: https://github.com/gemmadanks/gemmadanks.github.io/blob/main/.github/workflows/jekyll.yml
-[html-list-style]: https://developer.mozilla.org/en-US/docs/Web/CSS/list-style
-[jekyll]: https://jekyllrb.com/
-[jekyll-scholar]: https://github.com/inukshuk/jekyll-scholar
-[jekyll-scholar-citations]: https://github.com/inukshuk/jekyll-scholar#citations
-[jekyll-scholar-issue-75]: https://github.com/inukshuk/jekyll-scholar/issues/75
-[jekyll-scholar-issue-160]: https://github.com/inukshuk/jekyll-scholar/issues/160
-[latex]: https://www.latex-project.org/
-[my-research-process]: https://open-research.gemmadanks.com/planning/my-research-process/
-[ruby-issue]: https://github.com/alshedivat/al-folio/issues/161
-[zotero]: https://www.zotero.org/
-[zotero-style-repo]: https://www.zotero.org/styles
 
