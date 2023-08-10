@@ -300,6 +300,7 @@ plugins:
 
 scholar:
   style: current-opinion
+  list-style: none
 
   
 # Beautiful Jekyll / Dean Attali
