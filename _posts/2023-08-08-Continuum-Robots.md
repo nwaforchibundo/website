@@ -48,9 +48,11 @@ These have given rise to the creation and upsurge of new research communities/cl
 ### Error
 
 {: .box-error}
-**Error:** This is an error box.
+**Error:** This is an error box {% cite ruby %}.
 
-Reference
---------
+References
+----------
+
+{% bibliography %}
 
 
