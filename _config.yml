@@ -300,6 +300,7 @@ plugins:
 
 scholar:
   style: modern-language-association
+  bibliography_template: bib
 
   
 # Beautiful Jekyll / Dean Attali
