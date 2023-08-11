@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Continuum robots
 subtitle: Essence of these robots
 cover-img: /assets/img/path.jpg
