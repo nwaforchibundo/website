@@ -89,5 +89,6 @@ If the above image is broken, then you'll need to follow the instructions [in th
 
 ![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
 
-
+<h1>
+      <span id="txt-rotate" data-period="500" data-rotate='["Nwafor is a guru", "I am fucking tired of this program."]'>
 
