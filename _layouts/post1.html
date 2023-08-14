@@ -65,7 +65,9 @@ layout: base
           {% endfor %}
         </div>
       {% endif %}
-
+      
+      {% include landing-page.html %}
+      
       {% if page.social-share %}
         {% include social-share.html %}
       {% endif %}
@@ -82,7 +84,6 @@ layout: base
         </li>
         {% endif %}
       </ul>
-      {% include landing-page.html %}
       {% include comments.html %}
     </div>
   </div>
