@@ -62,11 +62,11 @@ layout: base
         <div class="after-content">
           {% for file in page.after-content %}
             {% include {{ file }} %}
+            {% include landing-page.html %}
           {% endfor %}
         </div>
       {% endif %}
       
-      {% include landing-page.html %}
       
       {% if page.social-share %}
         {% include social-share.html %}
