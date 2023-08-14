@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post1
 title: Continuum robots
 subtitle: Essence of these robots
 cover-img: /assets/img/path.jpg
