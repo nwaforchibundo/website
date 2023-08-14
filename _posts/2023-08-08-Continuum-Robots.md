@@ -19,9 +19,6 @@ The evolution in medical intervention from traditional open surgery to minimally
 **Figure 2.** *`The three classes of MIS intervention instruments A) Flexible needle with a straight shaft having a bevel tip that steers and changes its direction upon application of lateral force at the base. Its drawback is high dependence on solid tissue penetration to produce lateral tip motion and secondly, it cannot maneuver through curved cavity/anatomy, B) Straight and stiff shaft with a tip-mounted articulated tool, which reaches the surgical site through a straight path. It is difficult to steer through complex anatomy and the tool manipulation can often cause tissue deformation e.g. forceps and da Vinci, Intuitive Surgical tools, C) Elongated steerable device with a flexible backbone. They consist of flexible catheters or multistage dexterous devices like continuum robots.`* 
 {: .text-justify}
 
-<h1>
-      <span id="txt-rotate" data-period="500" data-rotate='["Nwafor is a guru", "I am fucking tired of this program."]'>
-
 With lots of different progress today, there are still huge areas in medical intervention needing technological improvements {% cite soja23 %}. The majority of these demands have been in the area of developing smart devices with better properties and characteristics for targeted applications. These include achieving high overall robot miniaturization for possible handheld capability and single-port deployability. Among other features are high dexterity, high precision, high maneuverability, and safer robot-to-human interaction. To that effect, all these have resulted in the paradigm shift in medical robotics research, from the traditional rigid robot to the continuum (continuously deformable) and soft robots. This emerging field of research has drawn enormous focus today due to its overwhelming potential and benefits. 
 {: .text-justify}
 
