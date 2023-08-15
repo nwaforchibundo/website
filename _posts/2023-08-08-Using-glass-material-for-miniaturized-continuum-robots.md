@@ -1,15 +1,16 @@
 ---
 layout: post1
 title: Using glass material for miniaturized continuum robots
-subtitle: Possibilities of using glass material for miniaturized devices
+subtitle: Possibilities of using glass material for miniaturized continuum robots
 cover-img: [/assets/img/path.jpg : Sojochukwu]
 thumbnail-img: /assets/img/three/bend_glass.gif
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-## Glass for miniaturized devices {#local-urls}
-Glass has proved to be one of the most inevitable materials for the fast-emerging field of micromachining technology. 
+{: .box-success}
+Glass has proven to be one of the most inevitable materials for the fast-emerging field that involves fabrication of micromanipulation smart devices. 
+{#local-urls}
 It has a desirable optical and good isolation property {% cite tay %},  {% cite Takahashi2013 %}, which in addition to their biocompatibility, chemical stability, hydrophilicity, and optical transparency, 
 makes them suited for various applications ranging from Optical/Bio-MEMS, micro-actuators, micro-sensors, and the Lab-on-chip device. 
 The development of microfabrication in glass techniques over the years enabled different microcomponents and applications ranging from microfluidic (microchannels)  {% cite TANG2021129859 %},  {% cite Cheng03 %},  {% cite Kikutani02 %},  {% cite Hnatovsky06 %}, 
