@@ -1,13 +1,14 @@
 ---
 layout: post1
 title: Using glass material for miniaturized continuum robots
-subtitle: Essence of these robots
+subtitle: Possibilities of using glass material for miniaturized devices
 cover-img: [/assets/img/path.jpg : Sojochukwu]
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
+### Glass for miniaturized devices {#local-urls}
 Glass has proved to be one of the most inevitable materials for the fast-emerging field of micromachining technology. 
 It has a desirable optical and good isolation property {% cite tay %},  {% cite Takahashi2013 %}, which in addition to their biocompatibility, chemical stability, hydrophilicity, and optical transparency, 
 makes them suited for various applications ranging from Optical/Bio-MEMS, micro-actuators, micro-sensors, and the Lab-on-chip device. 
@@ -34,8 +35,7 @@ for designing different complex 3D monolithic micro-structures in a glass.
 
 ![glass_bend_test]({{ '/assets/img/three/glass_bend_test.png' | relative_url }})
 **Figure 2.** *<span style='color: orangered;'>{Illustration of glass beam bending experiments undergoing several stress deformation for loading and unloading without breaking~
-            (\href{https://figshare.com/articles/media/Media_1_On_the_bending_strength_of_fused_silica_flexures_fabricated_by_ultrafast_lasers_Invited_/4921124}{see video}). 
-            The beam is characterized by a 40µm thick flexure in its thinnest part, Image~\copyright~2011 Optical Society of America {% cite Bellouard11 %}.</span>*
+            [(see video).](https://figshare.com/articles/media/Media_1_On_the_bending_strength_of_fused_silica_flexures_fabricated_by_ultrafast_lasers_Invited_/4921124) The beam is characterized by a 40µm thick flexure in its thinnest part, Image~\copyright~2011 Optical Society of America {% cite Bellouard11 %}.</span>*
 {: .text-justify}
 
 
@@ -62,7 +62,7 @@ $$\alpha=2.30$$ and $$\beta=8.48$$ are the second-order and third-order nonlinea
 
 For the proposed miniaturized CTR, when considering the glass tube diameters used, the relationship between their bending stress and the obtainable radius of curvature, as derived using the equation above is presented in Fig. 3. 
 % Although theoretically, the ultimate tensile strength of fused silica can reach 4.83GPa (green dash line), we considered nominal bending stress of 0.69GPa (black dash line); this consideration is in line with the Polymicro  
-poof test (\href{https://www.molex.com/mx_upload/superfamily/polymicro/theBOOK.pdf}{Polymicro Technologies}).
+poof test [Polymicro Technologies](https://www.molex.com/mx_upload/superfamily/polymicro/theBOOK.pdf).
 The figure explains why it was possible to obtain a small bend radius of curvature in glass down to 5mm with tube diameter below 440µm (full detail discussed next), 
 which is very flexible to sustain bending stress below nominal value without fracture. This is highlighted and considered as our target area in Fig. 3. 
 Considering its ultimate tensile strength, the figure indicates that it can withstand more stress in cases of path contact during deployment and manipulation. 
@@ -74,6 +74,7 @@ Overall, we demonstrated the possibility to actualize the first of its type, a m
 regards microsurgery or micromanipulations. 
 {: .text-justify}
 
+[click to move to top](#local-urls)
 
 ### Notification
 
