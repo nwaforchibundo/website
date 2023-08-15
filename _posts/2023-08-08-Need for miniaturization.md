@@ -1,7 +1,7 @@
 ---
 layout: post1
 title: The Need for Miniaturization
-subtitle: What are the benefits and importance of device miniaturization in biomedical application
+subtitle: Benefits and importance of device miniaturization in biomedical application
 cover-img: [/assets/img/path.jpg : Sojochukwu]
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
