@@ -21,12 +21,7 @@ micro-actuators  {% cite Lenssen14750236 %}, {% cite Seiichi12364504 %}, {% cite
             fabricate a 3D transparent and complex microfluidic structure, having trusses and lattice with minimum feature sizes of 50µm, {% cite abm6459 %}, **B)** Microfluidic device using laser 
             micro-welding process in which the two glass plates are permanently bonded together without using any adhesives nor intermediate layer {% cite s41598019567115 %}, **C)** SEM image of a 500nm diameter silica micro/nanofibre (MNF) 
             tied into a ring and placed on a 60µm diameter human hair, with the MNF often used for optical sensors {% cite s18030903 %}, **D)** Intertwined microfluidic spiral channels in fused silica glass with a channel 
-            width of 74µm, which is filled with dyes (scale: 140µm) {% cite s18030903 %}, **E)** Quartz glass chip for cell sorting application with a dimension of 34mm × 12 mm × 2mm, fabricated by selective laser-induced etching {% cite mi8040110                      %}, **F)** Top and side view of a nested nozzle in quartz glass for biological application (diameter: 10mm, height: 7mm), fabricated by selective laser-induced etching {% cite mi8040110 %},   
-            **G)** Quartz glass connector for capillary electrophoresis, diameter 15mm, thickness 2mm, fabricated by selective laser-induced etching {% cite mi8040110 %} **H)** Transparent suspended microchannel resonator (SMR) 
-            in fused silica with fluidic channels with a cross-section around 10µm x 5µm flowing underneath {% cite femtoprintsite1 %}, **I)** Monolithic 3D micromixer with an impeller for glass microfluidic systems using selective 
-            laser-induced etching {% cite D0LC00823K %}, **J)** Microfluidic mixer with 5 inlets and 1 outlet (channels diameter of 100µm) {% cite femtoprintsite %}, **K)** Passive compliant tool for retinal vein cannulation (RVC) 
-            that relies on a buckling mechanical principle {% cite femtoprintsite2 %}, **L)** 3D complex lab-on-a-chip (smallest channel diameter of 3µm) {% cite femtoprintsite %}, **M)** Optically transparent glass 
-            micro-actuator fabricated by femtosecond laser exposure and chemical etching {% cite 14750236 %}, **N)** 3D microfluidic channel fabricated by using selective laser-assisted etching {% cite femtoprintsite3 %}.</span>*
+            width of 74µm, which is filled with dyes (scale: 140µm) {% cite s18030903 %}, **E)** Quartz glass chip for cell sorting application with a dimension of 34mm × 12 mm × 2mm, fabricated by selective laser-induced etching {% cite mi8040110 %}, **F)** Top and side view of a nested nozzle in quartz glass for biological application (diameter: 10mm, height: 7mm), fabricated by selective laser-induced etching {% cite mi8040110 %}, **G)** Quartz glass connector for capillary electrophoresis, diameter 15mm, thickness 2mm, fabricated by selective laser-induced etching {% cite mi8040110 %} **H)** Transparent suspended microchannel resonator (SMR) in fused silica with fluidic channels with a cross-section around 10µm x 5µm flowing underneath {% cite femtoprintsite1 %}, **I)** Monolithic 3D micromixer with an impeller for glass microfluidic systems using selective laser-induced etching {% cite D0LC00823K %}, **J)** Microfluidic mixer with 5 inlets and 1 outlet (channels diameter of 100µm) {% cite femtoprintsite %}, **K)** Passive compliant tool for retinal vein cannulation (RVC) that relies on a buckling mechanical principle {% cite femtoprintsite2 %}, **L)** 3D complex lab-on-a-chip (smallest channel diameter of 3µm) {% cite femtoprintsite %}, **M)** Optically transparent glass micro-actuator fabricated by femtosecond laser exposure and chemical etching {% cite 14750236 %}, **N)** 3D microfluidic channel fabricated by using selective laser-assisted etching {% cite femtoprintsite3 %}.</span>*
 {: .text-justify}
 
 Figure 1 presents some of the 3D miniaturized and monolithic devices in the literature that are fabricated with glass using different approaches. Figure 1A show the 
@@ -63,12 +58,13 @@ When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 ~~~
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 ~~~
 
+$` \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}]  `$
+
 ```javascript
-$$ \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}] $$
+$ \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}] $
 ```
 
 $\sigma$ is the surface stress, $E_o$ is Young's modulus at zero strain (70GPa), $r_c$ is the capillary radius, and $r$ is the bending radius of curvature. 
