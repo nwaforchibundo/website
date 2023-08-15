@@ -57,10 +57,7 @@ with the maximum bend radius of curvature, deduced by considering tensile streng
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
-```math
-SE = \frac{\sigma}{\sqrt{n}}
-```
-The syntax for inline latex is $`\sqrt{2}`$
+<img src="https://latex.codecogs.com/svg.image?\beta\frac{\alpha}{\kappa}" title="\beta\frac{\alpha}{\kappa}" />
 
 $` \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}]  `$
 
