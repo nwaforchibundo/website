@@ -17,21 +17,20 @@ micro-actuators  {% cite Lenssen14750236 %}, {% cite Seiichi12364504 %}, {% cite
 {: .text-justify}
 
 ![Glass_devices]({{ '/assets/img/three/Glass_devices.jpg' | relative_url }})
-**Figure 1.** *<span style='color: orangered;'>Different 3D miniature devices and monolithic microstructure fabricated in glass \textbf{A)} Volumetric 3D printing of silica glass with microscale computed axial lithography to 
-            fabricate a 3D transparent and complex microfluidic structure, having trusses and lattice with minimum feature sizes of 50$\mu$m, {% cite abm6459 %}, \textbf{B)} Microfluidic device using laser 
-            micro-welding process in which the two glass plates are permanently bonded together without using any adhesives nor intermediate layer {% cite s41598019567115 %}, \textbf{C)} SEM image of a 500nm diameter silica micro/nanofibre (MNF) 
-            tied into a ring and placed on a 60$\mu$m diameter human hair, with the MNF often used for optical sensors {% cite s18030903 %}, \textbf{D)} Intertwined microfluidic spiral channels in fused silica glass with a channel 
-            width of 74$\mu$m, which is filled with dyes (scale: 140$\mu$m) {% cite s18030903 %}, \textbf{E)} Quartz glass chip for cell sorting application with a dimension of 34mm × 12 mm × 2mm, fabricated by selective laser-induced etching {% cite mi8040110 %},
-            \textbf{F)} Top and side view of a nested nozzle in quartz glass for biological application (diameter: 10mm, height: 7mm), fabricated by selective laser-induced etching {% cite mi8040110 %},   
-            \textbf{G)} Quartz glass connector for capillary electrophoresis, diameter 15mm, thickness 2mm, fabricated by selective laser-induced etching {% cite mi8040110 %} \textbf{H)} Transparent suspended microchannel resonator (SMR) 
-            in fused silica with fluidic channels with a cross-section around 10$\mu$m x 5$\mu$m flowing underneath {% cite femtoprintsite1 %}, \textbf{I)} Monolithic 3D micromixer with an impeller for glass microfluidic systems using selective 
-            laser-induced etching {% cite D0LC00823K %}, \textbf{J)} Microfluidic mixer with 5 inlets and 1 outlet (channels diameter of 100 $\mu$m) {% cite femtoprintsite %}, \textbf{K)} Passive compliant tool for retinal vein cannulation (RVC) 
-            that relies on a buckling mechanical principle {% cite femtoprintsite2 %}, \textbf{L)} 3D complex lab-on-a-chip (smallest channel diameter of 3 $\mu$m) {% cite femtoprintsite %}, \textbf{M)} Optically transparent glass 
-            micro-actuator fabricated by femtosecond laser exposure and chemical etching {% cite 14750236 %}, \textbf{N)} 3D microfluidic channel fabricated by using selective laser-assisted etching {% cite femtoprintsite3 %}.</span>*
+**Figure 1.** *<span style='color: orangered;'>Different 3D miniature devices and monolithic microstructure fabricated in glass **A)** Volumetric 3D printing of silica glass with microscale computed axial lithography to 
+            fabricate a 3D transparent and complex microfluidic structure, having trusses and lattice with minimum feature sizes of 50µm, {% cite abm6459 %}, **B)** Microfluidic device using laser 
+            micro-welding process in which the two glass plates are permanently bonded together without using any adhesives nor intermediate layer {% cite s41598019567115 %}, **C)** SEM image of a 500nm diameter silica micro/nanofibre (MNF) 
+            tied into a ring and placed on a 60µm diameter human hair, with the MNF often used for optical sensors {% cite s18030903 %}, **D)** Intertwined microfluidic spiral channels in fused silica glass with a channel 
+            width of 74µm, which is filled with dyes (scale: 140µm) {% cite s18030903 %}, **E)** Quartz glass chip for cell sorting application with a dimension of 34mm × 12 mm × 2mm, fabricated by selective laser-induced etching {% cite mi8040110                      %}, **F)** Top and side view of a nested nozzle in quartz glass for biological application (diameter: 10mm, height: 7mm), fabricated by selective laser-induced etching {% cite mi8040110 %},   
+            **G)** Quartz glass connector for capillary electrophoresis, diameter 15mm, thickness 2mm, fabricated by selective laser-induced etching {% cite mi8040110 %} **H)** Transparent suspended microchannel resonator (SMR) 
+            in fused silica with fluidic channels with a cross-section around 10µm x 5µm flowing underneath {% cite femtoprintsite1 %}, **I)** Monolithic 3D micromixer with an impeller for glass microfluidic systems using selective 
+            laser-induced etching {% cite D0LC00823K %}, **J)** Microfluidic mixer with 5 inlets and 1 outlet (channels diameter of 100µm) {% cite femtoprintsite %}, **K)** Passive compliant tool for retinal vein cannulation (RVC) 
+            that relies on a buckling mechanical principle {% cite femtoprintsite2 %}, **L)** 3D complex lab-on-a-chip (smallest channel diameter of 3µm) {% cite femtoprintsite %}, **M)** Optically transparent glass 
+            micro-actuator fabricated by femtosecond laser exposure and chemical etching {% cite 14750236 %}, **N)** 3D microfluidic channel fabricated by using selective laser-assisted etching {% cite femtoprintsite3 %}.</span>*
 {: .text-justify}
 
 Figure~\ref{glass_devices} presents some of the 3D miniaturized and monolithic devices in the literature that are fabricated with glass using different approaches. Figure~\ref{glass_devices}A show the 
-possibility of 3D volumetric additive manufacturing of silica glass with microscale computed axial lithography for microstructures with minimum feature sizes of 50$\mu$m. 
+possibility of 3D volumetric additive manufacturing of silica glass with microscale computed axial lithography for microstructures with minimum feature sizes of 50µm. 
 It is also possible to use a maskless approach to fabricate in glass by laser micro-welding which usually involves non-adhesive bonding of two pre-printed surfaces (see~\ref{glass_devices} B) The case of 500 nm diameter 
 silica micro/nanofibre for optical sensors, which is fabricated by taper-drawing glass fiber at high temperature is presented in~\ref{glass_devices}C. It is also possible to fabricate arbitrary 3D suspended hollow microstructures in 
 transparent fused silica glass using stereolithography as shown in~\ref{glass_devices}D. Using selective laser-induced etching, this presents the most predominant approach which is used from Figure~\ref{glass_devices}E to Figure~\ref{glass_devices}N, 
@@ -41,7 +40,7 @@ for designing different complex 3D monolithic micro-structures in a glass.
 ![glass_bend_test]({{ '/assets/img/three/glass_bend_test.png' | relative_url }})
 **Figure 2.** *<span style='color: orangered;'>{Illustration of glass beam bending experiments undergoing several stress deformation for loading and unloading without breaking~
             (\href{https://figshare.com/articles/media/Media_1_On_the_bending_strength_of_fused_silica_flexures_fabricated_by_ultrafast_lasers_Invited_/4921124}{see video}). 
-            The beam is characterized by a 40$\mu$m thick flexure in its thinnest part, Image~\copyright~2011 Optical Society of America {% cite Bellouard11 %}.</span>*
+            The beam is characterized by a 40µm thick flexure in its thinnest part, Image~\copyright~2011 Optical Society of America {% cite Bellouard11 %}.</span>*
 {: .text-justify}
 
 
@@ -70,7 +69,7 @@ $\alpha=2.30$ and $\beta=8.48$ are the second-order and third-order nonlinear ma
 For the proposed miniaturized CTR, when considering the glass tube diameters used, the relationship between their bending stress and the obtainable radius of curvature, as derived using Equation~\ref{eq_41} is presented in Figure~\ref{state_of_art15}. 
 % Although theoretically, the ultimate tensile strength of fused silica can reach 4.83GPa (green dash line), we considered nominal bending stress of 0.69GPa (black dash line); this consideration is in line with the Polymicro  
 poof test (\href{https://www.molex.com/mx_upload/superfamily/polymicro/theBOOK.pdf}{Polymicro Technologies}).
-The figure explains why it was possible to obtain a small bend radius of curvature in glass down to 5 mm with tube diameter below 440$\mu$m (full detail in Chapter~\ref{chap2}), 
+The figure explains why it was possible to obtain a small bend radius of curvature in glass down to 5 mm with tube diameter below 440µm (full detail in Chapter~\ref{chap2}), 
 which is very flexible to sustain bending stress below nominal value without fracture. This is highlighted and considered as our target area in Figure~\ref{state_of_art15}. 
 Considering its ultimate tensile strength, the figure indicates that it can withstand more stress in cases of path contact during deployment and manipulation. 
 % For both glass and Nitinol, the precurvature limits, or the obtainable minimum radius of curvature, depend on the available tube diameter; a smaller tube diameter guarantees a smaller radius of curvature without plastic deformation.
