@@ -44,7 +44,7 @@ Having a distal orientation section is well known to improve manipulator dexteri
 {: .text-justify}
 
 When considering parallel manipulators, which has many advantages such as high precision, high speed, high payload/force capabilities, and extrinsic actuation, 
-that enable locating the actuators outside of the confined space leading to a very high miniaturization potential but they are often limited in workspace volume {% cite Jin2015. 
+that enable locating the actuators outside of the confined space leading to a very high miniaturization potential but they are often limited in workspace volume {% cite Jin2015 %}. 
 Presently, the smallest parallel manipulators in the literature include Millidelta {% cite mcclintock2018millidelta %} and Migribot {% cite abn4292 %}. 
 Though each presents key benefits thanks to their parallel configurations, they are both restricted to translative motion. 
 Conversely, this issue and limitation can be solved using a new type of parallel robot called parallel continuum robots (PCRs) {% cite bryson_toward_2014 %}. 
