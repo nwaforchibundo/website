@@ -22,8 +22,7 @@ Some of the key benefits or reasons for MIS device miniaturization include:
     There is a higher benefit/possibility of organ collision avoidance using a miniaturized MIS device.   
 4. **Cost reduction and improvement of patient comfort:** Smaller devices require fewer resources and materials, resulting in cost savings in manufacturing and medical procedures. 
     Additionally, the use of miniaturized devices can contribute to reduced pain, scarring, and discomfort for patients, enhancing their overall experience during and after surgery.
-    
-
+ {: .text-justify}   
 
 As technology advances, the convergence of various aspects is expected to drive development in terms of smaller, more dexterous, and less expensive devices for a wide range of procedures. 
 The ongoing improvements in MIS device miniaturization are vital for pushing the boundaries of what is possible in surgical interventions, ultimately leading to enhanced patient care and outcomes.
@@ -51,18 +50,9 @@ Conversely, this issue and limitation can be solved using a new type of parallel
 For this reason, added to the benefits and possibilities of using flexible glass at a small scale, this is one of the key research investigations and analyses in this dissertation.
 {: .text-justify}
 
-![ladder1]({{ '/assets/img/two/ladder1.png' | relative_url }})
+![Ladder1]({{ '/assets/img/two/Ladder1.png' | relative_url }})
 **Figure 1.** *<span style='color: orangered;'>Trend in medical robotic devices with a paradigm shift from rigid link/articulated robots to continuum robots on the bases of backbone flexibility and level of miniaturization.</span>*
 {: .text-justify}
-
-# %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\begin{figure}[b!]
-    \centering
-    \includegraphics[width=0.9\textwidth]{Ladder1.pdf}
-    \caption{\footnotesize{Trend in medical robotic devices with a paradigm shift from rigid link/articulated robots to continuum robots on the bases of backbone flexibility and level of miniaturization.}}
-    \label{ladder}
-\end{figure}
-# %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Current MIS tools still have challenges to access some confined regions of surgical sites due to the size, location, or sensitivity/complexity nature of anatomical structure e.g. when considering the use of the conventional rigid straight instrument. 
 Considering the trend in medicine for further miniaturization, which targets the possibility of accessing hard-to-reach zone of interest. 
