@@ -59,6 +59,14 @@ with the maximum bend radius of curvature, deduced by considering tensile streng
 **Figure 3.** *<span style='color: orangered;'>The relationship between the glass capillary bending stress and the obtainable bend radius of curvature for the glass diameters.</span>*
 {: .text-justify}
 
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
+~~~
+When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+~~~
+
 ```javascript
 $$ \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}] $$
 ```
