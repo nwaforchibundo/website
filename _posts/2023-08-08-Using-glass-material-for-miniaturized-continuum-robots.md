@@ -60,7 +60,7 @@ with the maximum bend radius of curvature, deduced by considering tensile streng
 {: .text-justify}
 
 ```javascript
-<img src="https://i.upmath.me/svg/%5Csigma%20%3D%20%7BE_o%20r_c%20%5Cover%20r%7D%20%7B%5B1%20%2B%20%5Calpha%7Br_c%20%5Cover%20r%7D%20%2B%20%5Cbeta(%7Br_c%20%5Cover%20r%7D)%5E2%7D%5D." alt="\sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}]." />
+$$ \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}] $$
 ```
 
 $\sigma$ is the surface stress, $E_o$ is Young's modulus at zero strain (70GPa), $r_c$ is the capillary radius, and $r$ is the bending radius of curvature. 
