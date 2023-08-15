@@ -63,8 +63,7 @@ $$\alpha=2.30$$ and $$\beta=8.48$$ are the second-order and third-order nonlinea
 {: .text-justify}
 
 For the proposed miniaturized CTR, when considering the glass tube diameters used, the relationship between their bending stress and the obtainable radius of curvature, as derived using the equation above is presented in Fig. 3. 
-% Although theoretically, the ultimate tensile strength of fused silica can reach 4.83GPa (green dash line), we considered nominal bending stress of 0.69GPa (black dash line); this consideration is in line with the Polymicro  
-poof test [Polymicro Technologies]([https://www.molex.com/mx_upload/superfamily/polymicro/theBOOK.pdf](https://issuu.com/molex/docs/polymicro-technolgies)).
+% Although theoretically, the ultimate tensile strength of fused silica can reach 4.83GPa (green dash line), we considered nominal bending stress of 0.69GPa (black dash line); this consideration is in line with the Polymicro proof test [Polymicro Technologies]([https://www.molex.com/mx_upload/superfamily/polymicro/theBOOK.pdf](https://issuu.com/molex/docs/polymicro-technolgies)).
 The figure explains why it was possible to obtain a small bend radius of curvature in glass down to 5mm with tube diameter below 440µm (full detail discussed next), 
 which is very flexible to sustain bending stress below nominal value without fracture. This is highlighted and considered as our target area in Fig. 3. 
 Considering its ultimate tensile strength, the figure indicates that it can withstand more stress in cases of path contact during deployment and manipulation. 
