@@ -8,7 +8,7 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-### Glass for miniaturized devices {#local-urls}
+## Glass for miniaturized devices {#local-urls}
 Glass has proved to be one of the most inevitable materials for the fast-emerging field of micromachining technology. 
 It has a desirable optical and good isolation property {% cite tay %},  {% cite Takahashi2013 %}, which in addition to their biocompatibility, chemical stability, hydrophilicity, and optical transparency, 
 makes them suited for various applications ranging from Optical/Bio-MEMS, micro-actuators, micro-sensors, and the Lab-on-chip device. 
@@ -47,7 +47,7 @@ The proposed glass for the robot design is fused silica. Its surface stress can 
 In addition, its mechanical strength can be further improved by minimizing the flaws in glass and enabling a low surface area because a small size limits the risk of the presence of flaws {% cite ms26080196000355 %}, {% cite Wondraczek22 %}, {% cite Bellouard11 %}. 
 All these factors guarantee the ability of capillary glass to withstand high bending stress (see Fig. 2}). 
 It also allows the capillary glass to have flexibility similar to the spring steel. Fused silica has a non-linear elastic property and the applied strain determines the elastic modulus {% cite 1970JAP4208B %},{% cite M10181373 %}, 
-with the maximum bend radius of curvature, deduced by considering tensile strength in Equation~\ref{eq_41}.
+with the maximum bend radius of curvature, deduced by considering tensile strength in the equation below.
 {: .text-justify}
 
 ![GlassandNitinol_stiff_plot]({{ '/assets/img/three/GlassandNitinol_stiff_plot.jpg' | relative_url }})
