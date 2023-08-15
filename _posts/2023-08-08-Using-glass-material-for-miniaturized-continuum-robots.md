@@ -3,7 +3,7 @@ layout: post1
 title: Using glass material for miniaturized continuum robots
 subtitle: Possibilities of using glass material for miniaturized devices
 cover-img: [/assets/img/path.jpg : Sojochukwu]
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/three/bend_glass.gif
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
