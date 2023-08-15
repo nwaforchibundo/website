@@ -12,8 +12,8 @@ Glass has proved to be one of the most inevitable materials for the fast-emergin
 It has a desirable optical and good isolation property {% cite tay %},  {% cite Takahashi2013 %}, which in addition to their biocompatibility, chemical stability, hydrophilicity, and optical transparency, 
 makes them suited for various applications ranging from Optical/Bio-MEMS, micro-actuators, micro-sensors, and the Lab-on-chip device. 
 The development of microfabrication in glass techniques over the years enabled different microcomponents and applications ranging from microfluidic (microchannels)  {% cite TANG2021129859 %},  {% cite Cheng03 %},  {% cite Kikutani02 %},  {% cite Hnatovsky06 %}, 
-optical (optical alignment, waveguide, and positioners)  {% cite Rosa_2015 %},  {% cite Karnaushkin21 %},  {% cite 122313982 %},  {% cite Mittholiya16 %}, mechanical parts (nozzles, gears)  {% cite NIZA20101797 %},  {% cite Montanero10 %},  {% cite EKLUND2008175 %},  {% cite WANG2010684 %}, 
-micro-actuators  {% cite 14750236 %}, {% cite 12364504 %}, {% cite WANG2009120 %}, {% cite 260256 %},  {% cite Sakurai15 %}, {% cite 11643056 %}, {% cite WANG2009120 %}, {% cite 12800777 %} and sensors  {% cite LIN1997200 %}, {% cite 122183334 %}, {% cite ZUSMAN1990107 %}, {% cite ROGERS1995113 %}, {% cite 201000283 %}, {% cite s141019402 %}, {% cite VLASOV19941059 %}, {% cite mi14010226 %}, {% cite bios12111038 %}, {% cite s22031126 %}.
+optical (optical alignment, waveguide, and positioners)  {% cite Rosa_2015 %},  {% cite Karnaushkin21 %},  {% cite Luzius122313982 %},  {% cite Mittholiya16 %}, mechanical parts (nozzles, gears)  {% cite NIZA20101797 %},  {% cite Montanero10 %},  {% cite EKLUND2008175 %},  {% cite WANG2010684 %}, 
+micro-actuators  {% cite Lenssen14750236 %}, {% cite Seiichi12364504 %}, {% cite WANG2009120 %}, {% cite Minami260256 %},  {% cite Sakurai15 %}, {% cite Kometani11643056 %}, {% cite WANG2009120 %}, {% cite F12800777 %} and sensors  {% cite LIN1997200 %}, {% cite Christian122183334 %}, {% cite ZUSMAN1990107 %}, {% cite ROGERS1995113 %}, {% cite Gao201000283 %}, {% cite s141019402 %}, {% cite VLASOV19941059 %}, {% cite mi14010226 %}, {% cite bios12111038 %}, {% cite s22031126 %}.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
           \begin{figure}[t!]
@@ -72,7 +72,7 @@ For this reason, we ask the question of whether tubes made of glass, with a sub-
 The proposed glass for the robot design is fused silica. Its surface stress can significantly be reduced by using a protective polymer coating, which is common in optics fiber to increase its mechanical rigidity.
 In addition, its mechanical strength can be further improved by minimizing the flaws in glass and enabling a low surface area because a small size limits the risk of the presence of flaws {% cite ms26080196000355 %}, {% cite Wondraczek22 %}, {% cite Bellouard11 %}. 
 All these factors guarantee the ability of capillary glass to withstand high bending stress (see Figure~\ref{glass_bend_test}). 
-It also allows the capillary glass to have flexibility similar to the spring steel. Fused silica has a non-linear elastic property and the applied strain determines the elastic modulus {% cite 1970JAP4208B %},{% cite 10181373 %}, 
+It also allows the capillary glass to have flexibility similar to the spring steel. Fused silica has a non-linear elastic property and the applied strain determines the elastic modulus {% cite 1970JAP4208B %},{% cite M10181373 %}, 
 with the maximum bend radius of curvature, deduced by considering tensile strength in Equation~\ref{eq_41}.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
