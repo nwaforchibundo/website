@@ -57,11 +57,10 @@ with the maximum bend radius of curvature, deduced by considering tensile streng
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
-This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$
-
-~~~
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-~~~
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
+The syntax for inline latex is $`\sqrt{2}`$
 
 $` \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}]  `$
 
