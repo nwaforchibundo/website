@@ -1,3 +1,3 @@
 ---
 ---
- Folder for all the pics use fot this page blog
+ Folder for all the pics or figure used for this page blog
