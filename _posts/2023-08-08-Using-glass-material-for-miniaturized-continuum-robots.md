@@ -29,11 +29,11 @@ micro-actuators  {% cite Lenssen14750236 %}, {% cite Seiichi12364504 %}, {% cite
             micro-actuator fabricated by femtosecond laser exposure and chemical etching {% cite 14750236 %}, **N)** 3D microfluidic channel fabricated by using selective laser-assisted etching {% cite femtoprintsite3 %}.</span>*
 {: .text-justify}
 
-Figure~\ref{glass_devices} presents some of the 3D miniaturized and monolithic devices in the literature that are fabricated with glass using different approaches. Figure~\ref{glass_devices}A show the 
+Figure 1 presents some of the 3D miniaturized and monolithic devices in the literature that are fabricated with glass using different approaches. Figure 1A show the 
 possibility of 3D volumetric additive manufacturing of silica glass with microscale computed axial lithography for microstructures with minimum feature sizes of 50µm. 
-It is also possible to use a maskless approach to fabricate in glass by laser micro-welding which usually involves non-adhesive bonding of two pre-printed surfaces (see~\ref{glass_devices} B) The case of 500 nm diameter 
-silica micro/nanofibre for optical sensors, which is fabricated by taper-drawing glass fiber at high temperature is presented in~\ref{glass_devices}C. It is also possible to fabricate arbitrary 3D suspended hollow microstructures in 
-transparent fused silica glass using stereolithography as shown in~\ref{glass_devices}D. Using selective laser-induced etching, this presents the most predominant approach which is used from Figure~\ref{glass_devices}E to Figure~\ref{glass_devices}N, 
+It is also possible to use a maskless approach to fabricate in glass by laser micro-welding which usually involves non-adhesive bonding of two pre-printed surfaces (see Fig. 1B) The case of 500 nm diameter 
+silica micro/nanofibre for optical sensors, which is fabricated by taper-drawing glass fiber at high temperature is presented in Fig. 1C. It is also possible to fabricate arbitrary 3D suspended hollow microstructures in 
+transparent fused silica glass using stereolithography as shown in Fig. 1D. Using selective laser-induced etching, this presents the most predominant approach which is used from Fig. 1E to Fig. 1N, 
 for designing different complex 3D monolithic micro-structures in a glass.
 {: .text-justify}
 
@@ -50,7 +50,7 @@ Consequently, this solidifies the possibility of designing and fabricating a con
 For this reason, we ask the question of whether tubes made of glass, with a sub-millimeter diameter can permit a small radius of curvature without breaking. 
 The proposed glass for the robot design is fused silica. Its surface stress can significantly be reduced by using a protective polymer coating, which is common in optics fiber to increase its mechanical rigidity.
 In addition, its mechanical strength can be further improved by minimizing the flaws in glass and enabling a low surface area because a small size limits the risk of the presence of flaws {% cite ms26080196000355 %}, {% cite Wondraczek22 %}, {% cite Bellouard11 %}. 
-All these factors guarantee the ability of capillary glass to withstand high bending stress (see Figure~\ref{glass_bend_test}). 
+All these factors guarantee the ability of capillary glass to withstand high bending stress (see Fig. 2}). 
 It also allows the capillary glass to have flexibility similar to the spring steel. Fused silica has a non-linear elastic property and the applied strain determines the elastic modulus {% cite 1970JAP4208B %},{% cite M10181373 %}, 
 with the maximum bend radius of curvature, deduced by considering tensile strength in Equation~\ref{eq_41}.
 {: .text-justify}
@@ -66,14 +66,14 @@ with the maximum bend radius of curvature, deduced by considering tensile streng
 $\sigma$ is the surface stress, $E_o$ is Young's modulus at zero strain (70GPa), $r_c$ is the capillary radius, and $r$ is the bending radius of curvature. 
 $\alpha=2.30$ and $\beta=8.48$ are the second-order and third-order nonlinear material coefficients, respectively. 
 
-For the proposed miniaturized CTR, when considering the glass tube diameters used, the relationship between their bending stress and the obtainable radius of curvature, as derived using Equation~\ref{eq_41} is presented in Figure~\ref{state_of_art15}. 
+For the proposed miniaturized CTR, when considering the glass tube diameters used, the relationship between their bending stress and the obtainable radius of curvature, as derived using Equation~\ref{eq_41} is presented in Fig. 3. 
 % Although theoretically, the ultimate tensile strength of fused silica can reach 4.83GPa (green dash line), we considered nominal bending stress of 0.69GPa (black dash line); this consideration is in line with the Polymicro  
 poof test (\href{https://www.molex.com/mx_upload/superfamily/polymicro/theBOOK.pdf}{Polymicro Technologies}).
-The figure explains why it was possible to obtain a small bend radius of curvature in glass down to 5 mm with tube diameter below 440µm (full detail in Chapter~\ref{chap2}), 
-which is very flexible to sustain bending stress below nominal value without fracture. This is highlighted and considered as our target area in Figure~\ref{state_of_art15}. 
+The figure explains why it was possible to obtain a small bend radius of curvature in glass down to 5 mm with tube diameter below 440µm (full detail discussed next), 
+which is very flexible to sustain bending stress below nominal value without fracture. This is highlighted and considered as our target area in Fig. 3. 
 Considering its ultimate tensile strength, the figure indicates that it can withstand more stress in cases of path contact during deployment and manipulation. 
 % For both glass and Nitinol, the precurvature limits, or the obtainable minimum radius of curvature, depend on the available tube diameter; a smaller tube diameter guarantees a smaller radius of curvature without plastic deformation.
-Figure~\ref{state_of_art15} also demonstrated that it is theoretically possible for a 1 mm glass tube to sustain bending stress over a 10 mm radius of curvature like that of Nitinol, which has a minimum radius of 
+Fig. 3 also demonstrated that it is theoretically possible for a 1 mm glass tube to sustain bending stress over a 10 mm radius of curvature like that of Nitinol, which has a minimum radius of 
 curvature of 15 mm in literature {% cite sears2006 %}. The various approach explored to obtain a pre-curved tube using thin glass for the proposed miniaturized concentric tube robot (CTR) in Chapter~\ref{chap4} is 
 discussed in detail in Chapter~\ref{chap3}. Whereas for the parallel continuum robot (PCR), a standard optical fiber was used directly for the robot modeling, design, and experimental prototype, which is detailed in Chapter~\ref{chap5}. 
 Overall, we demonstrated the possibility to actualize the first of its type, a miniaturized continuum robot using glass material. This landmark achievement and scientific breakthrough has huge prospects in the robotics and material domain as 
