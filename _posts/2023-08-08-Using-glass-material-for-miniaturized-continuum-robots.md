@@ -54,19 +54,18 @@ with the maximum bend radius of curvature, deduced by considering tensile streng
 **Figure 3.** *<span style='color: orangered;'>The relationship between the glass capillary bending stress and the obtainable bend radius of curvature for the glass diameters.</span>*
 {: .text-justify}
 
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
+When $a \ne 0$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they are 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
-<img src="https://latex.codecogs.com/svg.image?\beta\frac{\alpha}{\kappa}" title="\beta\frac{\alpha}{\kappa}" />
 
-$` \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}]  `$
+$$ \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}]  $$
 
 ```javascript
-$ \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}] $
+$$ \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}] $$
 ```
 
-$\sigma$ is the surface stress, $E_o$ is Young's modulus at zero strain (70GPa), $r_c$ is the capillary radius, and $r$ is the bending radius of curvature. 
-$\alpha=2.30$ and $\beta=8.48$ are the second-order and third-order nonlinear material coefficients, respectively. 
+$$\sigma$$ is the surface stress, $$ E_o $$ is Young's modulus at zero strain (70GPa), $$r_c$$ is the capillary radius, and $$r$$ is the bending radius of curvature. 
+$$\alpha=2.30$$ and $\beta=8.48$ are the second-order and third-order nonlinear material coefficients, respectively. 
 {: .text-justify}
 
 For the proposed miniaturized CTR, when considering the glass tube diameters used, the relationship between their bending stress and the obtainable radius of curvature, as derived using Equation~\ref{eq_41} is presented in Fig. 3. 
