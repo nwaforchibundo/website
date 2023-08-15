@@ -9,8 +9,9 @@ tags: [books, test]
 ---
 
 {: .box-success}
-Glass has proven to be one of the most inevitable materials for the fast-emerging field that involves fabrication of micromanipulation smart devices.{#local-urls} 
+Glass has proven to be one of the most inevitable materials for the fast-emerging field that involves fabrication of micromanipulation smart devices. 
 
+## Why glass and what are the possibilities? {#local-urls}
 It has a desirable optical and good isolation property {% cite tay %},  {% cite Takahashi2013 %}, which in addition to their biocompatibility, chemical stability, hydrophilicity, and optical transparency, 
 makes them suited for various applications ranging from Optical/Bio-MEMS, micro-actuators, micro-sensors, and the Lab-on-chip device. 
 The development of microfabrication in glass techniques over the years enabled different microcomponents and applications ranging from microfluidic (microchannels)  {% cite TANG2021129859 %},  {% cite Cheng03 %},  {% cite Kikutani02 %},  {% cite Hnatovsky06 %}, 
