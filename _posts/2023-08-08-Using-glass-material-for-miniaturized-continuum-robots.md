@@ -54,21 +54,13 @@ with the maximum bend radius of curvature, deduced by considering tensile streng
 **Figure 3.** *<span style='color: orangered;'>The relationship between the glass capillary bending stress and the obtainable bend radius of curvature for the glass diameters.</span>*
 {: .text-justify}
 
-When $a \ne 0$, there are two solutions to $$(ax^2 + bx + c = 0)$$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-
-
 $$ \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}]  $$
 
-```javascript
-$$ \sigma = {E_o r_c \over r} {[1 + \alpha{r_c \over r} + \beta({r_c \over r})^2}] $$
-```
-
 $$\sigma$$ is the surface stress, $$ E_o $$ is Young's modulus at zero strain (70GPa), $$r_c$$ is the capillary radius, and $$r$$ is the bending radius of curvature. 
-$$\alpha=2.30$$ and $\beta=8.48$ are the second-order and third-order nonlinear material coefficients, respectively. 
+$$\alpha=2.30$$ and $$\beta=8.48$$ are the second-order and third-order nonlinear material coefficients, respectively. 
 {: .text-justify}
 
-For the proposed miniaturized CTR, when considering the glass tube diameters used, the relationship between their bending stress and the obtainable radius of curvature, as derived using Equation~\ref{eq_41} is presented in Fig. 3. 
+For the proposed miniaturized CTR, when considering the glass tube diameters used, the relationship between their bending stress and the obtainable radius of curvature, as derived using the equation above is presented in Fig. 3. 
 % Although theoretically, the ultimate tensile strength of fused silica can reach 4.83GPa (green dash line), we considered nominal bending stress of 0.69GPa (black dash line); this consideration is in line with the Polymicro  
 poof test (\href{https://www.molex.com/mx_upload/superfamily/polymicro/theBOOK.pdf}{Polymicro Technologies}).
 The figure explains why it was possible to obtain a small bend radius of curvature in glass down to 5mm with tube diameter below 440µm (full detail discussed next), 
@@ -76,8 +68,8 @@ which is very flexible to sustain bending stress below nominal value without fra
 Considering its ultimate tensile strength, the figure indicates that it can withstand more stress in cases of path contact during deployment and manipulation. 
 % For both glass and Nitinol, the precurvature limits, or the obtainable minimum radius of curvature, depend on the available tube diameter; a smaller tube diameter guarantees a smaller radius of curvature without plastic deformation.
 Fig. 3 also demonstrated that it is theoretically possible for a 1mm glass tube to sustain bending stress over a 10mm radius of curvature like that of Nitinol, which has a minimum radius of 
-curvature of 15 mm in literature {% cite sears2006 %}. The various approach explored to obtain a pre-curved tube using thin glass for the proposed miniaturized concentric tube robot (CTR) in Chapter~\ref{chap4} is 
-discussed in detail in Chapter~\ref{chap3}. Whereas for the parallel continuum robot (PCR), a standard optical fiber was used directly for the robot modeling, design, and experimental prototype, which is detailed in Chapter~\ref{chap5}. 
+curvature of 15 mm in literature {% cite sears2006 %}. The various approach explored to obtain a pre-curved tube using thin glass for the proposed miniaturized concentric tube robot (CTR) is 
+discussed in detail in the subsequent blog post. Whereas for the parallel continuum robot (PCR), a standard optical fiber was used directly for the robot modeling, design, and experimental prototype, which is detailed in another blog post below. 
 Overall, we demonstrated the possibility to actualize the first of its type, a miniaturized continuum robot using glass material. This landmark achievement and scientific breakthrough has huge prospects in the robotics and material domain as 
 regards microsurgery or micromanipulations. 
 {: .text-justify}
