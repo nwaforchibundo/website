@@ -51,6 +51,10 @@ Conversely, this issue and limitation can be solved using a new type of parallel
 For this reason, added to the benefits and possibilities of using flexible glass at a small scale, this is one of the key research investigations and analyses in this dissertation.
 {: .text-justify}
 
+![ladder1]({{ '/assets/img/two/ladder1.png' | relative_url }})
+**Figure 1.** *<span style='color: orangered;'>Trend in medical robotic devices with a paradigm shift from rigid link/articulated robots to continuum robots on the bases of backbone flexibility and level of miniaturization.</span>*
+{: .text-justify}
+
 # %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{figure}[b!]
     \centering
