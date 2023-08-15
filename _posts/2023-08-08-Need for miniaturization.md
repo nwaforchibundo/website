@@ -11,8 +11,8 @@ tags: [books, test]
 {: .box-success} 
 To further enhance MIS capabilities, there is a growing demand for smaller and more precise devices. 
 
-Considering the most popular commercial surgical robotic system, which is da Vinci, 
-has more than 10 million MIS performed worldwide {% cite Badani2007 %},{% cite Ettorre9531355 %},{% cite marcus2014 %},{% cite intuitive2023 %}. This surgical robot uses instruments that are rigid and straight with articulating tips. 
+Considering the most popular commercial surgical robotic system, which is da Vinci.  
+It has more than 10 million MIS performed worldwide {% cite Badani2007 %},{% cite Ettorre9531355 %},{% cite marcus2014 %},{% cite intuitive2023 %}. This surgical robot uses instruments that are rigid and straight with articulating tips. 
 In addition, they also have a large footprint in the operating room. Hence, the trend toward miniaturization of MIS tools is evident in order to maximize the benefits and advantages that come with it {% cite yang2018grand %}. 
 Some of the key benefits or reasons for MIS device miniaturization include:
 {: .text-justify}
