@@ -3,7 +3,7 @@ layout: post1
 title: Continuum robots
 subtitle: Essence of these robots
 cover-img: [/assets/img/path.jpg : Sojochukwu]
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/one/paradigm_shift.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
