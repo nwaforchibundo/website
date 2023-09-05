@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Determined to make a difference while being me 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+NWAFOR Chibundo Josiah is currently rounding-up his PhD in the field of Micro Robotics, particularly on "Miniaturized Continuum Robots Made of Glass" at FEMTO-ST Institute which is under the Université de Franche-Comté (UBFC), France, where he obtained an International Master Degree on Control for Green Mechatronics (GREEM). He also holds a Bachelor Degree in Electrical/Electronic Engineering from Anambra State University Uli (ANSU), Nigeria.  His research interest is on robots for biomedical systems/applications with special interest focused on continuum and soft robotics or related field in automation systems. Some of his few personalities include:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+- Good interpersonal relationship and communication
+- Dynamics and goal gettter
+- Very curious and open minded
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+To be honest, I invite you to read [my resume](https://nwaforchibundo.github.io/cv/) as it will answer **all** your questions.
+
+For more detail or discussion, why not contact me via any of the links at the footpage, thanks.
