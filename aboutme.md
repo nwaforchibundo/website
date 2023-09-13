@@ -19,5 +19,3 @@ NWAFOR Chibundo Josiah is currently rounding-up his PhD in the field of Micro Ro
 
 To be honest, I invite you to read [my resume](https://nwaforchibundo.github.io/cv/) as it will answer **almost all** your questions. For more detail or discussion, why not contact me via any of the links at the footpage, thanks.
 
-<h1>
-      <span id="txt-rotate" data-period="500" data-rotate='["In all you do in life", "Please remain focused."]'>
