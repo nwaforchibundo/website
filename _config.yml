@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Current Workplace: "https://www.femto-st.fr/en/femto-people/chibundonwafor"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's CV: <a href="https://nwaforchibundo.github.io/cv/" target="_blank">Go</a>
+  Author's CV: "https://nwaforchibundo.github.io/cv/"
 
 ################
 # --- Logo --- #
