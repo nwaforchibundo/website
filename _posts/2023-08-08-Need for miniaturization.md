@@ -4,7 +4,7 @@ title: The Need for Miniaturization
 subtitle: Benefits and importance of device miniaturization in biomedical application
 cover-img: [/assets/img/path.jpg : Sojochukwu]
 thumbnail-img: /assets/img/miniaturization1.gif
-share-img: /assets/img/path.jpg
+share-img: /assets/img/miniaturization1.gif
 tags: [books, test]
 ---
 
@@ -75,6 +75,7 @@ Since thin glass at a small scale is flexible e.g. optical fiber, this presents 
 and this will open entirely new doors in the domain of continuum robots along with the application potentials.
 {: .text-justify}
 
+<!---
 ### Notification
 
 {: .box-note}
@@ -89,6 +90,7 @@ and this will open entirely new doors in the domain of continuum robots along wi
 
 {: .box-error}
 **Error:** This is an error box.
+--->
 
 References
 ----------
@@ -96,6 +98,6 @@ References
 {% bibliography --cited %}
 
 <h1>
-      <span id="txt-rotate" data-period="500" data-rotate='["Nwafor is a guru", "I am fucking tired of this program."]'>
+      <span id="txt-rotate" data-period="500" data-rotate='["In all you do", "Please remain focused."]'>
 
       
