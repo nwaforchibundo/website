@@ -98,6 +98,6 @@ References
 {% bibliography --cited %}
 
 <h1>
-      <span id="txt-rotate" data-period="500" data-rotate='["In all you do", "Please remain focused."]'>
+      <span id="txt-rotate" data-period="500" data-rotate='["In all you do in life", "Please remain focused."]'>
 
       
