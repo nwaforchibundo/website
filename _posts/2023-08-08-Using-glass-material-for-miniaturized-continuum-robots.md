@@ -77,6 +77,7 @@ regards microsurgery or micromanipulations.
 
 [click to move to top](#local-urls)
 
+<!---
 ### Notification
 
 {: .box-note}
@@ -91,6 +92,7 @@ regards microsurgery or micromanipulations.
 
 {: .box-error}
 **Error:** This is an error box.
+--->
 
 References
 ----------
@@ -98,4 +100,4 @@ References
 {% bibliography --cited %}
 
 <h1>
-      <span id="txt-rotate" data-period="500" data-rotate='["Nwafor is a guru", "I am fucking tired of this program."]'>
+      <span id="txt-rotate" data-period="500" data-rotate='["In all you do in life", "Please remain focused."]'>
