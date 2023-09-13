@@ -1,5 +1,5 @@
 ---
-layout: post1
+layout: page
 title: The Need for Miniaturization
 subtitle: Benefits and importance of device miniaturization in biomedical application
 cover-img: [/assets/img/path.jpg : Sojochukwu]
