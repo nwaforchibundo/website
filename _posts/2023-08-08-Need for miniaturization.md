@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: post1
 title: The Need for Miniaturization
 subtitle: Benefits and importance of device miniaturization in biomedical application
 cover-img: [/assets/img/path.jpg : Sojochukwu]
 thumbnail-img: /assets/img/miniaturization1.gif
-share-img: /assets/img/miniaturization1.gif
+share-img: /assets/img/crepe.jpg
 tags: [books, test]
 ---
 
