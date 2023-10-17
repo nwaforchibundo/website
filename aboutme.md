@@ -4,7 +4,7 @@ title: About me
 subtitle: Determined to make a difference while being me 
 ---
 
-![MIS_1]({{ '/assets/img/Nwasojo.jpg' | relative_url }})
+![MIS_1]({{ '/assets/img/sojo2.jpg' | relative_url }})
 *<span style='color: orangered;'>NWAFOR Josiah Chibundo.</span>*
 {: .text-justify}
 
