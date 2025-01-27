@@ -24,13 +24,13 @@ navbar-links:
   Resources:
     - Current Workplace: "https://www.femto-st.fr/en/femto-people/chibundonwafor"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's CV: "NWAFOR_Chibundo_Resume_English.pdf"
+  Author's CV: "/assets/img/NWAFOR_Chibundo_Resume_English.pdf"
 
 ################
 # --- Logo --- #
 ################
 
-# Image to show in the navigation bar - works best with a square image
+# Image to show in the navigation bar - works best with a square image  "https://nwaforchibundo.github.io/"
 # Remove this parameter if you don't want an image in the navbar
 # avatar: "/assets/img/avatar-icon.png"
 # avatar: "/assets/img/Nwasojo.jpg"
